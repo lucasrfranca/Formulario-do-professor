@@ -1,0 +1,23 @@
+label {
+    margin-top: 5px;
+    display: inline-block;
+    width: 110px;
+}
+.carga label {
+    display: inline-block;
+    width: 40px;
+}
+.margin {
+    margin-top: 5px;
+}
+.margin0 {
+    margin-top: 5px;
+    margin-left: 130px;
+}
+.opcao label {
+    display: inline-block;
+    width: 1000px;
+}
+.margin1 {
+    margin-left: 90px;
+}
